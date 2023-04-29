@@ -38,8 +38,8 @@ end
 
 ## Author
 
-Donghyuk Lee, mrgamza@gmail.com
-damon.p, damon.p@kg.xyz
+- Donghyuk Lee, mrgamza@gmail.com
+- damon.p, damon.p@kg.xyz
 
 ## License
 
