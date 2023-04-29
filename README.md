@@ -38,7 +38,7 @@ end
 
 ## Author
 
-outofcoding, outofcoding@gmail.com  
+Donghyuk Lee, mrgamza@gmail.com
 damon.p, damon.p@kg.xyz
 
 ## License
