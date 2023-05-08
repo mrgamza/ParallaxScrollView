@@ -8,17 +8,17 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ParallaxScrollView'
-  s.version          = '1.0.2'
+  s.version          = '1.0.3'
   s.summary          = 'Scroll Item is parallax'
   s.description      = <<-DESC
 This lib is like ClubHouse View.
 Scroll Items width parallax
                        DESC
 
-  s.homepage         = 'https://github.com/outofcoding/ParallaxScrollView'
+  s.homepage         = 'https://github.com/mrgamza/ParallaxScrollView'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'outofcoding' => 'outofcoding@gmail.com' }
-  s.source           = { :git => 'https://github.com/outofcoding/ParallaxScrollView.git', :tag => s.version.to_s }
+  s.author           = { 'Donghyuk Lee' => 'mrgamza@gmail.com' }
+  s.source           = { :git => 'https://github.com/mrgamza/ParallaxScrollView.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '9.0'
 

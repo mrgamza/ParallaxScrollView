@@ -28,16 +28,19 @@ it, simply add the following line to your Podfile:
 use_frameworks!
 
 target 'YOUR_TARGET_NAME' do
-  pod 'ParallaxScrollView', '1.0.2'
+  pod 'ParallaxScrollView', '1.0.3'
 end
 ```
 
-## Version History
+## Recent Version Histories
+### 1.0.3
+- Support frame.
 ### 1.0.2
 - Make public initializer for LayoutOption and Spacing
 
 ## Author
 
+Donghyuk Lee, mrgamza@gmail.com
 outofcoding, outofcoding@gmail.com  
 damon.p, damon.p@kg.xyz
 
