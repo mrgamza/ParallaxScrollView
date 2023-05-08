@@ -39,7 +39,6 @@ end
 - Make public initializer for LayoutOption and Spacing
 
 ## Author
-
 Donghyuk Lee, mrgamza@gmail.com
 outofcoding, outofcoding@gmail.com  
 damon.p, damon.p@kg.xyz
