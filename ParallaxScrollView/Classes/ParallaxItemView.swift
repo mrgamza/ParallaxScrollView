@@ -7,7 +7,7 @@
 
 import UIKit
 
-public protocol ParallaxItemViewDelegate: class {
+public protocol ParallaxItemViewDelegate: AnyObject {
     func numberOfItems(with parallaxItemView: ParallaxItemView) -> Int
     
     func parallaxScrollView(_ parallaxItemView: ParallaxItemView, viewForItemAt index: Int) -> UIView

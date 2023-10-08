@@ -33,11 +33,13 @@ final class RowItemView: UIView {
             let spacing = (index > 0 ? self.spacing.horizontal : 0)
             let leftMargin = (index == 0 ? self.spacing.leftMargin : 0.0)
             let rightMargin = (index + 1 == items.count ? self.spacing.rightMargin : 0.0)
-            
-            view.frame = .init(x: _width + leftMargin + spacing,
-                               y: 0,
-                               width: size.width,
-                               height: size.height)
+          
+            view.frame = CGRect(
+              x: _width + leftMargin + spacing,
+              y: 0,
+              width: size.width,
+              height: size.height
+            )
             addSubview(view)
             
             NSLayoutConstraint.activate([
